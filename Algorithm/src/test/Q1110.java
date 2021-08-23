@@ -20,7 +20,6 @@ public class Q1110 {
 				 break;
 			 }
 		 }
-		 System.out.println(cnt);
-		 
+		 System.out.println(cnt);		 
 	}
 }
